@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\dldb\\rulesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\rulesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\resistaydll\\dlinterfaces\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dlinterfaces\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\dldb\\rtdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\rtdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\dldb\\roomdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\roomdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\dldb\\hosteldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\hosteldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\dldb\\dwellerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\dwellerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\resistaydll\\dldb\\complaindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\complaindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\dldb\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dldb\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|c:\\users\\tahir\\desktop\\uet\\sem2\\db\\semproject\\fivestarhostel\\fivestardll\\resistaydll\\bl\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\bl\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\resistaydll\\bl\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\bl\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\resistaydll\\utilities\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\utilities\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\resistaydll\\dlfh\\rulesfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EF32A0-181E-449F-B15E-B45B3DB56636}|ResistayDll\\FiveStarHostelDLL.csproj|solutionrelative:resistaydll\\dlfh\\rulesfh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RtDb.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\RtDb.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\RtDb.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\RtDb.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\RtDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:15:33.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomDb.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\RoomDb.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\RoomDb.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\RoomDb.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\RoomDb.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAArwMEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:15:28.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HostelDb.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\HostelDb.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\HostelDb.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\HostelDb.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\HostelDb.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAArwOIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:15:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DwellerDB.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\DwellerDB.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\DwellerDB.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\DwellerDB.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\DwellerDB.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAvwIkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:15:06.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDb.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\StudentDb.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\StudentDb.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\StudentDb.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\StudentDb.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:13:26.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RulesDb.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\RulesDb.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\RulesDb.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\RulesDb.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\RulesDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:56:15.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRule.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DLInterfaces\\IRule.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DLInterfaces\\IRule.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DLInterfaces\\IRule.cs",
+              "RelativeToolTip": "ResistayDll\\DLInterfaces\\IRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:55:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hostel.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\Bl\\Hostel.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\Bl\\Hostel.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\Bl\\Hostel.cs",
+              "RelativeToolTip": "ResistayDll\\Bl\\Hostel.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowHEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:13:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplainDb.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\ComplainDb.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlDb\\ComplainDb.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlDb\\ComplainDb.cs",
+              "RelativeToolTip": "ResistayDll\\DlDb\\ComplainDb.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwGAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:56:11.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RulesFH.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlFH\\RulesFH.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\DlFH\\RulesFH.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\DlFH\\RulesFH.cs",
+              "RelativeToolTip": "ResistayDll\\DlFH\\RulesFH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:55:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\Utilities\\Validations.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\Utilities\\Validations.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\Utilities\\Validations.cs",
+              "RelativeToolTip": "ResistayDll\\Utilities\\Validations.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:55:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Complain.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\Bl\\Complain.cs",
+              "RelativeDocumentMoniker": "ResistayDll\\Bl\\Complain.cs",
+              "ToolTip": "C:\\Users\\tahir\\Desktop\\UET\\Sem2\\DB\\semProject\\FiveStarHostel\\FiveStarDLL\\ResistayDll\\Bl\\Complain.cs",
+              "RelativeToolTip": "ResistayDll\\Bl\\Complain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:55:16.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
