@@ -1,6 +1,6 @@
 # Five Star Hostel
 
-**Five Star Hostel** is a hostel management system developed in C# with MS SQL Server integration. This user-friendly platform features distinct logins for students, resident tutors, and senior wardens. Students can manage profiles, request leave, and submit complaints, while resident tutors oversee hostel operations and senior wardens ensure efficient coordination across all hostels.
+**Five Star Hostel** is a hostel management system developed in C# with MS SQL Server integration, implementing object-oriented programming principles. This user-friendly platform features distinct logins for students, resident tutors, and senior wardens. Students can manage profiles, request leave, and submit complaints, while resident tutors oversee hostel operations and senior wardens ensure efficient coordination across all hostels.
 
 ## Table of Contents
 - [Features](#features)
