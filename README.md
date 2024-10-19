@@ -32,8 +32,8 @@
    `git clone https://github.com/miansaadtahir/fivestarhostel.git`
 2. Navigate to the project directory:
    `cd FiveStarHostel/ HostelUI
-/Resistay`
-3. Launch the `Program.cs` file.
+/ Resistay/ bin/ debug`
+3. Launch the `Resistay.exe` file.
 
 ## Documentation
 For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
