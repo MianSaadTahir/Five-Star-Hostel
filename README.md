@@ -28,9 +28,9 @@
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/fivestarhostel.git`
 2. Navigate to the project directory:
-   `cd FiveStarHostel/HostelUI
+   `cd FiveStarHostel/ HostelUI
 /Resistay`
-3. Launch the Program.cs file.
+3. Launch the `Program.cs` file.
 
 ## Technologies Used
 - C#
