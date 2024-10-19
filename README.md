@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
+- [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,6 +32,9 @@
    `cd FiveStarHostel/ HostelUI
 /Resistay`
 3. Launch the `Program.cs` file.
+
+## Documentation
+For a detailed overview of the project and its features, visit the [Documentation](./documentation/FiveStarHostels.pdf) in the repository.
 
 ## Technologies Used
 - C#
