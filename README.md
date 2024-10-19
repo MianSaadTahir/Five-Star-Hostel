@@ -20,6 +20,9 @@
 ## Screenshots
 ![Screenshot](assets/1.png)
 ![Screenshot](assets/2.png)
+![Screenshot](assets/3.png)
+![Screenshot](assets/4.png)
+![Screenshot](assets/5.png)
 
 ## Usage
 1. Clone the repository:
@@ -29,3 +32,13 @@
 /Resistay`
 3. Launch the Program.cs file.
 
+## Technologies Used
+- C#
+- MS SQL Server
+
+## Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to check out the [issues page](https://github.com/miansaadtahir/fivestarhostel/issues) for more information.
+
+## License
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
