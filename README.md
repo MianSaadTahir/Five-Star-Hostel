@@ -34,7 +34,7 @@
 3. Launch the `Program.cs` file.
 
 ## Documentation
-For a detailed overview of the project and its features, visit the [Documentation](./documentation/FiveStarHostels.pdf) in the repository.
+For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
 
 ## Technologies Used
 - C#
