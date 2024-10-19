@@ -13,6 +13,7 @@
 
 ## Features
 - **3 tier model**: Business layer, Data layer and User Interface
+- **Modular Design DLL Framework**: Backend business logic and data handling separated into a DLL framework, making it reusable and flexible for future UI developments.
 - **User Authentication**: Distinct logins for students, resident tutors, and senior wardens.
 - **Profile Management**: Students can manage their profiles and submit complaints.
 - **Leave Requests**: Students can request leave through the platform.
