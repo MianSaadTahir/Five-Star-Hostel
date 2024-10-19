@@ -12,6 +12,7 @@
 - [License](#license)
 
 ## Features
+-**3 tier model**: Business layer, Data layer and User Interface
 - **User Authentication**: Distinct logins for students, resident tutors, and senior wardens.
 - **Profile Management**: Students can manage their profiles and submit complaints.
 - **Leave Requests**: Students can request leave through the platform.
