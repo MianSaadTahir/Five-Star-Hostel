@@ -14,7 +14,7 @@ namespace Resistay
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AdminMenu());
+            Application.Run(new MainPage());
         }
     }
 }
