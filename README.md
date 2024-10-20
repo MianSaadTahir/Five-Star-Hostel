@@ -40,7 +40,8 @@ For a detailed overview of the project and its features, visit the [Documentatio
 
 ## Technologies Used
 - C#
-- MS SQL Server
+- Windows Forms
+- MSSQL Database 
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
