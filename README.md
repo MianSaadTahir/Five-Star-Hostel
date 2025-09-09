@@ -22,9 +22,7 @@ A Windows Form hostel management system developed in C# with MS SQL Server integ
 <img src="assets/1.png" alt="Screenshot" width="75%">
 <img src="assets/2.png" alt="Screenshot" width="75%">
 <img src="assets/3.png" alt="Screenshot" width="75%">
-<img src="assets/4.png" alt="Screenshot" width="75%">
 <img src="assets/5.png" alt="Screenshot" width="75%">
-
 
 ## Documentation
 For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
@@ -32,13 +30,13 @@ For a detailed overview of the project and its features, visit the [Documentatio
 ## Technologies Used
 - C#
 - Windows Forms
-- MSSQL Database 
+- MSSQL Database
+- 
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/fivestarhostel.git`
 2. Navigate to the project directory:
-   `cd FiveStarHostel/ HostelUI
-/ Resistay/ bin/ debug`
+   `cd .\HostelUI\Resistay\bin\debug`
 3. Launch the `Resistay.exe` file.
 
 ## Contributing
