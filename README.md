@@ -31,7 +31,7 @@ For a detailed overview of the project and its features, visit the [Documentatio
 - C#
 - Windows Forms
 - MSSQL Database
-- 
+  
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/fivestarhostel.git`
