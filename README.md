@@ -41,7 +41,7 @@ For a detailed overview of the project and its features, visit the [Documentatio
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/fivestarhostel/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/fivestarhostel/issues).
 ## License
 
 This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/fivestarhostel/blob/main/LICENSE).
